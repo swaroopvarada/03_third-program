@@ -1,0 +1,48 @@
+#type of variables
+
+a=13695
+print(a)
+print(type(a))		#int
+
+b=2526.65
+print(b)
+print(type(b))		#float
+
+c='swaroop'
+print(c)
+print(type(c))		#str
+
+d=125j
+print(d)
+print(type(d))		#complex
+
+e=('hello',1,5,'p','h')
+print(e)
+print(type(e))		#tuple
+
+f={'hello',4,5,'l','d'}
+print(f)
+print(type(f))		#set
+
+g=['hello',5,8,'h','n']
+print(g)
+print(type(g))		#list
+
+h=range(52)
+print(h)
+print(type(h))		#range
+
+i=True
+j=False
+print(i)
+print(j)
+print(type(i))		#bool
+print(type(j))		#bool
+
+
+
+
+
+
+
+
